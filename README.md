@@ -10,6 +10,12 @@ Has an acceptable performance impact and low flicker, the result is quite realis
 
 If you require another license to use this component in your closed source project please get in touch.
 
+[DEMO](https://alfa256.github.io/aframe-video-illumination-component/examples/basic/index.html)
+
+![effect](/examples/basic/demo.gif)
+
+The ready player one trailer is used for demonstration purposes only and belongs to Warner Bros. Entertainment Inc.
+
 For [A-Frame](https://aframe.io).
 
 ### API
