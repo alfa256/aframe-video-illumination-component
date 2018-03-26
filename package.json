@@ -29,7 +29,7 @@
     "video-illumination"
   ],
   "author": "Alfredo Consebola <sistemas.alfredo@gmail.com>",
-  "license": "AGPL v3",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/alfa256/aframe-video-illumination-component/issues"
   },
